@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhyudaya29
 - 👀 I’m interested in ... Machine Learning and Artifical Intelligence
 - 🌱 I’m currently learning ... Machine and Deep Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with  ... Web and Blockchain Developers
 - 📫 How to reach me ... 
 
 <!---
