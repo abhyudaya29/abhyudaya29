@@ -1,3 +1,4 @@
+![logo](https://github.com/abhyudaya29/abhyudaya29/blob/main/Abhy%20(2).png)
 <h1 align="center">Hi 👋, I'm Abhyudaya</h1>
 <h3 align="center">A passionate FullStack developer and Data science enthusiast from India</h3>
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
